@@ -5,4 +5,6 @@
 
 <h4>My skills and programming languages: </h4>
 <span><code><img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width="30px"></code><span>
-    <span><code><img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="30px"></code><span>
+<span><code><img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="30px"></code><span>
+<span><code><img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" width="30px"></code><span>
+      

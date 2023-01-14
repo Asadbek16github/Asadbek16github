@@ -5,3 +5,4 @@
 
 <h4>My skills and programming languages: </h4>
 <span><code><img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width="30px"></code><span>
+    <span><code><img src="[https://cdn-icons-png.flaticon.com/512/919/919827.png](https://cdn-icons-png.flaticon.com/512/888/888847.png)" width="30px"></code><span>

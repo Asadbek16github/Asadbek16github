@@ -9,5 +9,5 @@
 <span><code><img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" width="30px"></code><span>
  <span><code><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="30px"></code><span>
   
-  <h4> This is my leetcode acount : <a href="https://leetcode.com/asadbek16/">Acount</a></h4>
+  <h4> This is my leetcode acount link : <a href="https://leetcode.com/asadbek16/">Acount</a></h4>
       
